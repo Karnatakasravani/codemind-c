@@ -12,11 +12,11 @@ int main()
     }
         if(rev==temp)
         {
-            printf("Palindrome");
+            printf("True");
         }
         else
         {
-            printf("Not Palindrome");
+            printf("False");
         }
 
 }
